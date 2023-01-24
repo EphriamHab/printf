@@ -1,2 +1,2 @@
-# My_printf
-- My printf function implementation
+# printf
+-My printf function implementation
